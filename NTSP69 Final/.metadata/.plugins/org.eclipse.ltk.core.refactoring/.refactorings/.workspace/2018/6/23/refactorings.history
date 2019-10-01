@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;BootAOPProj7-SpringAOPDecl-SecurityCheck&apos;" deleteContents="true" description="Delete resource &apos;BootAOPProj7-SpringAOPDecl-SecurityCheck&apos;" element1="/BootAOPProj7-SpringAOPDecl-SecurityCheck" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1528292581521"/>
+</session>

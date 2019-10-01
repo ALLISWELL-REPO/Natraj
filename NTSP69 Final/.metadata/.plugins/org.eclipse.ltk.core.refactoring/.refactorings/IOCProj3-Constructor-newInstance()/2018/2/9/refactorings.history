@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;IOCProj3-Constructor-newInstance()/src/com/nt/test/ClientApp2-privateConstructorInstantation.java&apos; to &apos;ClientApp2_privateConstructorInstantation.java&apos;" description="Rename resource &apos;ClientApp2-privateConstructorInstantation.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/nt/test/ClientApp2-privateConstructorInstantation.java" name="ClientApp2_privateConstructorInstantation.java" stamp="1519652398916" updateReferences="true"/>
+</session>

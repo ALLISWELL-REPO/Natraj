@@ -1,0 +1,12 @@
+import javax.mail.Authenticator;
+import javax.mail.PasswordAuthentication;
+
+public class MyAuthenticator extends Authenticator {
+	public PasswordAuthentication getPasswordAuthentication(){
+		String username="khan.adib0786@gmail.com ";
+		String password="sarahadib7";
+		return new PasswordAuthentication(username, password);
+		
+	}
+
+}

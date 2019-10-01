@@ -1,0 +1,43 @@
+import java.util.Properties;  
+  
+import javax.mail.*;  
+import javax.mail.internet.InternetAddress;  
+import javax.mail.internet.MimeMessage;  
+  
+public class Mailer {  
+public static void send(String to,String subject,String msg) throws Exception{  
+  
+final String user="khan.adib0786@gmail.com";//change accordingly  
+final String pass="sarahadib7";  
+  
+//1st step) Get the session object 
+try {  
+Properties props = new Properties(); 
+props.setProperty("mail.smtp.port", "25");
+props.setProperty("mail.smtp.socketFactory.port", "25");
+props.setProperty("mail.smtp.host", "smtp.gmail.com");
+props.setProperty("mail.smtp.starttls.enable", "true");
+props.setProperty("mail.smtp.auth", "true");
+Authenticator auth=new MyAuthenticator();
+ Session smtpSession=Session.getDefaultInstance(props, auth);
+ smtpSession.setDebug(false);
+//2nd step)compose message  
+
+ MimeMessage message = new MimeMessage(smtpSession);  
+ message.setFrom(new InternetAddress(user));  
+ message.addRecipient(Message.RecipientType.TO,new InternetAddress(to));
+ String encoding="UTF-8";
+ message.setSubject(subject,encoding);
+ message.setText(msg,encoding);  
+   
+ //3rd step)send message  
+ Transport.send(message);  
+  
+ System.out.println("Done");  
+  
+ } catch (Exception e) {  
+	 throw new Exception("sendMail()->Exception", e); 
+ }  
+      
+}  
+}  

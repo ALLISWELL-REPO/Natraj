@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.nt.test.DependencyLookupTest&apos; to &apos;FMBITest&apos;&#x0D;&#x0A;- Original project: &apos;IOCProj22-FactoryMethodBeanInstantation&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.test.DependencyLookupTest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nt.test.FMBITest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DependencyLookupTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.nt.test{DependencyLookupTest.java[DependencyLookupTest" matchStrategy="1" name="FMBITest" qualified="false" references="true" similarDeclarations="false" stamp="1520432699276" textual="false" version="1.0"/>
+</session>

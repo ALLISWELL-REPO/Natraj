@@ -1,0 +1,16 @@
+<web-app>
+<servlet>
+<servlet-name>adibkhan</servlet-name>
+<servlet-class></servlet-class>
+</servlet>
+<context-param>
+<param-name>dname</param-name>
+<param-value>oracle.jdbc.driver.OracleDriver</param-value>
+</context-param>
+
+<servlet-mapping>
+<servlet-name>adibkhan</servlet-name>
+<url-pattern>/context</url-pattern>
+</servlet-mapping>
+
+</web-app>

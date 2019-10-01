@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.jdbc=4
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=BootAOPProj7-SpringAOPDecl-SecurityCheck
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.0.2.RELEASE
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=nit
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=BootAOPProj7-SpringAOPDecl-SecurityCheck
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.nt.test
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=GRADLE-Buildship 2.x
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=http\://start.spring.io\n

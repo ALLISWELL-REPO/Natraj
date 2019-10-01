@@ -1,0 +1,24 @@
+import java.util.Properties;
+
+import javax.mail.Authenticator;
+import javax.mail.PasswordAuthentication;
+import javax.mail.Session;
+
+public class Mailer {
+	public static void send(String to,String subject,String msg){
+		final String user="khan.adib0786@gmail.com";
+		final String pass=" ";
+		//1st step get the session object
+		Properties props=new Properties();
+		props.put("mail.smtp.host","mail.gmail.com");
+		props.put("mail.smtp.auth","true");
+		
+		Session session=Session.getDefaultInstance(props,new Authenticator() {
+			protected PasswordAuthentication getPasswordAuthentication(){
+				return new PasswordAuthentication(user, pass);
+		}
+		});
+		
+	}
+
+}

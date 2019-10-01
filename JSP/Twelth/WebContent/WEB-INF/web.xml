@@ -1,0 +1,14 @@
+<web-app>
+<servlet>
+<servlet-name>adibkhan</servlet-name>
+<jsp-file>/welcome.jsp</jsp-file>
+<init-param>
+<param-name>dname</param-name>
+<param-value>oracle.jdbc.driver.OracleDriver</param-value>
+</init-param>
+</servlet>
+<servlet-mapping>
+<servlet-name>adibkhan</servlet-name>
+<url-pattern>/welcome</url-pattern>
+</servlet-mapping>
+</web-app>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;loginappcookie/WebContent/login.html&apos; to &apos;link.html&apos;" description="Rename resource &apos;login.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/login.html" name="link.html" stamp="1535913500388" updateReferences="true"/>
+</session>

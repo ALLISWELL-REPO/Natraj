@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;AOPProj11-ProgramaticApproach-ProxyInterfaces&apos; to &apos;AOPProj12-ProgramaticApproach-ProxyInterfaces&apos;&#x0D;&#x0A;- Original element: &apos;AOPProj11-ProgramaticApproach-ProxyInterfaces&apos;&#x0D;&#x0A;- Renamed element: &apos;AOPProj11-ProgramaticApproach-ProxyInterfaces&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;AOPProj11-ProgramaticApproach-ProxyInterfaces&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=AOPProj11-ProgramaticApproach-ProxyInterfaces" name="AOPProj12-ProgramaticApproach-ProxyInterfaces" references="true" stamp="1528897270803" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+<web-app>
+ <servlet>
+ <servlet-name>DemoServlet</servlet-name>
+ <servlet-class>DemoServlet</servlet-class>
+ <init-param>
+ <param-name>driver</param-name>
+ <param-value>oracle.jdbc.driver.OracleDriver</param-value> 
+ </init-param>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>DemoServlet</servlet-name>
+ <url-pattern>/servlet1</url-pattern>
+ </servlet-mapping>
+</web-app>

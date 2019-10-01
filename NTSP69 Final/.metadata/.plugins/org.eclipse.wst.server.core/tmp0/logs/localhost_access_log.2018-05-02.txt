@@ -1,0 +1,14 @@
+127.0.0.1 - - [02/May/2018:19:16:24 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:16:26 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/ HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:16:29 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/controller?mid=1001 HTTP/1.1" 500 2219
+127.0.0.1 - - [02/May/2018:19:19:13 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:19:14 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/ HTTP/1.1" 200 285
+127.0.0.1 - - [02/May/2018:19:21:20 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:21:20 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/ HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:21:25 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/controller?mid=1001 HTTP/1.1" 500 2219
+127.0.0.1 - - [02/May/2018:19:23:58 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:23:59 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/ HTTP/1.1" 200 285
+127.0.0.1 - - [02/May/2018:19:25:48 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:25:48 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/ HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:26:43 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/controller?mid=1001 HTTP/1.1" 200 208
+0:0:0:0:0:0:0:1 - - [02/May/2018:19:30:15 +0530] "GET /IOCProj44-ServiceLocatorFactoryBean/find_score.jsp HTTP/1.1" 200 285

@@ -1,0 +1,11 @@
+127.0.0.1 - - [11/Apr/2018:19:09:03 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:09:04 +0530] "GET /IOCProj45-ServiceLocator-FactoryMethodBeanInstantiation/ HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:09:08 +0530] "GET /IOCProj45-ServiceLocator-FactoryMethodBeanInstantiation/controller?mid=1001 HTTP/1.1" 200 208
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:09:09 +0530] "GET /IOCProj45-ServiceLocator-FactoryMethodBeanInstantiation/find_score.jsp HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:09:10 +0530] "GET /IOCProj45-ServiceLocator-FactoryMethodBeanInstantiation/controller?mid=1002 HTTP/1.1" 200 210
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:09:12 +0530] "GET /IOCProj45-ServiceLocator-FactoryMethodBeanInstantiation/find_score.jsp HTTP/1.1" 200 285
+127.0.0.1 - - [11/Apr/2018:19:14:45 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:14:46 +0530] "GET /IOCProj46-ServiceLocator-InstanceFactoryMethodBeanInstantiation/ HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:14:48 +0530] "GET /IOCProj46-ServiceLocator-InstanceFactoryMethodBeanInstantiation/controller?mid=1001 HTTP/1.1" 200 208
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:14:50 +0530] "GET /IOCProj46-ServiceLocator-InstanceFactoryMethodBeanInstantiation/find_score.jsp HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:19:14:50 +0530] "GET /IOCProj46-ServiceLocator-InstanceFactoryMethodBeanInstantiation/controller?mid=1002 HTTP/1.1" 200 210

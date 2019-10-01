@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;IOCProj-SingletonJavaClass-Prototype&apos; to &apos;IOCProj001-SingletonJavaClass-Prototype&apos;&#x0D;&#x0A;- Original element: &apos;IOCProj-SingletonJavaClass-Prototype&apos;&#x0D;&#x0A;- Renamed element: &apos;IOCProj-SingletonJavaClass-Prototype&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;IOCProj-SingletonJavaClass-Prototype&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=IOCProj-SingletonJavaClass-Prototype" name="IOCProj001-SingletonJavaClass-Prototype" references="true" stamp="1526563013027" version="1.0"/>
+</session>

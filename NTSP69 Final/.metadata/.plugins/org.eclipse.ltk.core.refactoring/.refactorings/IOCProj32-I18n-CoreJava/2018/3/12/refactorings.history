@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.nt.test.CoreJavaI118nTest&apos; to &apos;CoreJavaI18nTest&apos;&#x0D;&#x0A;- Original project: &apos;IOCProj32-I18n-CoreJava&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.test.CoreJavaI118nTest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nt.test.CoreJavaI18nTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CoreJavaI118nTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.nt.test{CoreJavaI118nTest.java[CoreJavaI118nTest" matchStrategy="1" name="CoreJavaI18nTest" qualified="false" references="true" similarDeclarations="false" stamp="1521899775015" textual="false" version="1.0"/>
+</session>

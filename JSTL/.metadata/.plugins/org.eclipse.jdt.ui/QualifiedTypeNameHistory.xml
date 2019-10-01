@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.ListResourceBundle"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.sql.ResultSetMetaData"/>
+<fullyQualifiedTypeName name="javax.servlet.jsp.tagext.TagSupport"/>
+<fullyQualifiedTypeName name="javax.servlet.jsp.JspException"/>
+<fullyQualifiedTypeName name="javax.servlet.jsp.JspWriter"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="bean.Provider"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="com.sun.java.util.jar.pack.DriverResource"/>
+<fullyQualifiedTypeName name="com.cts.beans.Provider"/>
+<fullyQualifiedTypeName name="com.cts.beans.User"/>
+<fullyQualifiedTypeName name="com.cts.beans.ConnectionProvider"/>
+<fullyQualifiedTypeName name="com.cts.bean.Provider"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.cts.bean.LoginBean"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="com.cts.bean.ConnectionProvider"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+</qualifiedTypeNameHistroy>

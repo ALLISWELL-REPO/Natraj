@@ -1,0 +1,2 @@
+value is ${sessionScope.user}
+
